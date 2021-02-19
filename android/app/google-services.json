@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "721978317138",
+    "firebase_url": "https://watchnow-3e96f-default-rtdb.firebaseio.com",
+    "project_id": "watchnow-3e96f",
+    "storage_bucket": "watchnow-3e96f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721978317138:android:ea26e3ff0380c681ecc28b",
+        "android_client_info": {
+          "package_name": "com.example.watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721978317138-jecjmmrqd2r2qluvnpm6mnohmlqsilr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.watch",
+            "certificate_hash": "e94a578e2dfae2968bbd80e5fdb80bc02a2616cf"
+          }
+        },
+        {
+          "client_id": "721978317138-m7qlnlsmcncncsuivehv99dmfsq3r4cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6olcTHzQQ5_Hbd0_iAR0tlGgRCQL5_VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721978317138-m7qlnlsmcncncsuivehv99dmfsq3r4cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721978317138-n2cfl8adhvqcuql3h0jtq3j5cduujhr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinema"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
